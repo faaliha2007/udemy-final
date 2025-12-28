@@ -5,7 +5,7 @@ The project contains **two pages: Home and Contact**, designed with a simple and
 
 ## 👀 Live View
 You can view the website here:  
-🔗  {   }
+🔗  https://faaliha2007.github.io/udemy-final/
 
 ## 📄 Pages
 - **Home Page** – Showcases the course listings, navigation bar, and basic layout inspired by Udemy  
@@ -19,7 +19,7 @@ You can view the website here:
 This project was created to practice **HTML and CSS fundamentals** and to build a **Udemy-like clone** as a learning exercise.
 
 ## 📬 Contact
-- GitHub: {   } 
+- GitHub: https://github.com/faaliha2007 
 - Email: faaliha2007@gmail.com  
 
 ##  Thank You
